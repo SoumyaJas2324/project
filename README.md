@@ -1,2 +1,0 @@
-# project
-eBluesoft VAPT Project

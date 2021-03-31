@@ -1,0 +1,15 @@
+# project
+eBluesoft VAPT Project
+
+VAPT REPORT SUMMARY:
+TARGET URL http://ebluesoft.com/
+Server: Apache
+Linux version 3.10.
+SCAN DATE 16‐02‐2020 01:18:52 (UTC+05:30)
+REPORT DATE 18‐02‐2020 13:34:03 (UTC+05:30)
+VULNERABILITIES:
+
+High-1
+Medium-1
+Low-3
+
